@@ -1,0 +1,4 @@
+mapDataEasy
+mapDataNormal
+mapDataHard
+mapDataVeryHard
