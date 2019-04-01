@@ -4,6 +4,9 @@ Super MATLAB Ros.	Created By : Mahato (twitter:@mahato_stragule)
 Recomended Environment
  -MATLAB version : 2018a or later versions
  -OS             : Windows10
+ 
+Preparation for Start
+ -Please move "bgm" directory and run "bgmMake.m" before start!!
 
 How to Start?
  -Play game  : "MATLAB_ROS.m"
